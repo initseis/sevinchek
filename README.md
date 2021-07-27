@@ -10,7 +10,7 @@
 - 💬 Ask me about Web Development, Networking and Operating Systems
 - 😂 Fun fact: I want to be a web developer but, I don't have a beard.
 - 📫 How to reach me: [Twitter](https://www.twitter.com/sevinchek)
-- 🕵🏽‍♂️ Looking for new challenges and opportunities
+- 🕵🏽‍♂️ Looking for new challenges and job opportunities
 
 ![Sevinchek's GitHub stats](https://github-readme-stats.vercel.app/api?username=sevinchek&show_icons=true&theme=radical)  
 <br>

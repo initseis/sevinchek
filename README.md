@@ -1,14 +1,7 @@
-![screenshot](./img/banner.png)
-
 ### Hi, I'm Kevin 👨🏽‍💻
 
-<p>Remote Full-stack developer</p>
-
-- 👨🏽‍💻 Back-end developer
 - 🌱 I’m currently building Ruby on Rails projects
-- 👯 I’m looking to collaborate on any full-stack and IT projects
 - 💬 Ask me about Web Development, Networking, and Operating Systems
-- 😂 Fun fact: I want to be a web developer but, I don't have a beard
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sevinchek/)
 - 🕵🏽‍♂️ Looking for new challenges and job opportunities
 
